@@ -6,10 +6,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Code:You
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Anything!
+- 👯 I’m looking to collaborate on your project.
+- 🤔 I’m looking for help with your learning.
+- 💬 Ask me about Batman or Stephen King!
 - 📫 How to reach me: on Slack @don
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: 
 
+⚡ **Flash Fact:** The electron of a hydrogen atom whirls around  in its orbit at a 430 mile-a-second speed. However, the orbit is so small that the electron makes 6,000,000.000,000,000 roundtrips every second. DC Comics, The Flash #105, 1959
